@@ -1,5 +1,5 @@
 # Zotero SJR Rankings (ZSC)
-This add-on for Zotero tags journal articles with SJR journal quantiles.
+This add-on for Zotero tags journal articles with SJR journal quantiles and inserts a journal's "H index" to the "journal abbreviation" field. While a hack, it allows you to use that column to sort/filter.
 
 ## Installation
 To install the add-on for Zotero:
