@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE overlay SYSTEM "chrome://zoterosjrrankings/locale/overlay.dtd">
+
+<overlay
+    id="zoterosjrrankings-overlay"
+    xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <script
+        type="application/x-javascript"
+        src="chrome://zoterosjrrankings/content/sjr.js"/>
+
+    <popup id="zotero-collectionmenu">
+        <menuitem
+            id="zotero-collectionmenu-sjrrankings"
+            label="&zotero.sjrrankings.updateCol.label;"
+            oncommand="Zotero.sjrrankings.updateCollectionMenuEntry()"/>
+    </popup>
+
+    <popup
+        id="zotero-itemmenu">
+        <menuitem
+            id="zotero-itemmenu-sjrrankings"
+            label="&zotero.sjrrankings.update.label;"
+            oncommand="Zotero.sjrrankings.updateItemMenuEntries()"/>
+    </popup>
+</overlay>
