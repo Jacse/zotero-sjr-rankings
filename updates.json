@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "zoterosjrrankings@jacoblauritzen.com": {
+      "updates": [
+        {
+          "version": "2.1.0",
+          "update_link": "https://github.com/Jacse/zotero-sjr-rankings/releases/download/v2.1.0/zotero-sjr-rank-2.1.0.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "7.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

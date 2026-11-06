@@ -1,14 +1,13 @@
 module.exports = {
   parserOptions: {
-    ecmaVersion: 2017
+    ecmaVersion: 2018
   },
   globals: {
     Zotero: 'writable',
-    ZoteroPane: 'readable',
   },
   env: {
     es6: true,
-    browser: true,
+    node: true,
   },
   extends: [
     "eslint:recommended",

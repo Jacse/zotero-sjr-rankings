@@ -1,10 +1,11 @@
 {
   "name": "zotero-sjr-rankings",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Zotero add-on to retrieve SJR H indices and ranking quantiles for journals",
   "scripts": {
     "build": "./build.sh",
-    "lint": "eslint"
+    "lint": "eslint bootstrap.js chrome test",
+    "test": "node --test"
   },
   "author": "Jacob Lauritzen <jacsebl@hotmail.com>",
   "devDependencies": {

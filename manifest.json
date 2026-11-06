@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Zotero SJR Rankings",
+  "version": "2.1.0",
+  "description": "Tags journal articles with SJR quartiles and puts the journal's H index in the journal abbreviation field",
+  "author": "Jacob Lauritzen",
+  "homepage_url": "https://github.com/Jacse/zotero-sjr-rankings",
+  "applications": {
+    "zotero": {
+      "id": "zoterosjrrankings@jacoblauritzen.com",
+      "update_url": "https://raw.githubusercontent.com/Jacse/zotero-sjr-rankings/master/updates.json",
+      "strict_min_version": "7.0",
+      "strict_max_version": "10.*"
+    }
+  }
+}
