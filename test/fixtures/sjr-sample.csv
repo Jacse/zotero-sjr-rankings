@@ -1,0 +1,7 @@
+Rank;Sourceid;Title;Type;Issn;Publisher;Open Access;Open Access Diamond;SJR;SJR Best Quartile;H index;Total Docs. (2024);Total Docs. (3years);Total Refs.;Total Citations (3years);Citable Docs. (3years);Citations / Doc. (2years);Ref. / Doc.;%Female;Overton;SDG;Country;Region;Publisher;Coverage;Categories;Areas
+1;1;"Journal of Testing";journal;"15424863, 0007923X";"Example Press";No;No;145,004;Q1;223;43;122;2704;40834;81;168,71;62,88;48,21;4;37;United States;Northern America;"Example Press";"1950-2025";"Hematology (Q1); Oncology (Q2)";"Medicine"
+2;2;"Lancet Test";journal;"01406736";"Example Press";No;No;1,0;Q3;50;1;1;1;1;1;1;1;1;1;1;United States;Northern America;"Example Press";"2000-2025";"Medicine (miscellaneous) (Q3)";"Medicine"
+3;3;"Arts and Sciences Review";journal;"-";"Example Press";No;No;1,0;Q4;5;1;1;1;1;1;1;1;1;1;1;United States;Northern America;"Example Press";"2000-2025";"Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q4)";"Arts"
+4;4;"No Quartile Yet";conference and proceedings;"12345678";"Example Press";No;No;1,0;-;3;1;1;1;1;1;1;1;1;1;1;United States;Northern America;"Example Press";"2024-2025";"Software";"Computer Science"
+5;5;"Same Title";journal;"11111111";"Example Press";No;No;1,0;Q1;10;1;1;1;1;1;1;1;1;1;1;United States;Northern America;"Example Press";"2000-2025";"Physics (Q1)";"Physics"
+6;6;"Same Title";journal;"22222222";"Example Press";No;No;1,0;Q2;20;1;1;1;1;1;1;1;1;1;1;United States;Northern America;"Example Press";"2000-2025";"Chemistry (Q2)";"Chemistry"
